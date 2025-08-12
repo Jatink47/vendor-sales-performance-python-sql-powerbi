@@ -78,3 +78,5 @@ Removed transactions with:
 - **High Vendors:** Mean Margin = 31.17%
 - **Low Vendors**: Mean Margin = 41.55%
 6. **Hypothesis Testing:** Statistically significant difference in profit margins → distinct vendor strategies
+  ![image alt](https://github.com/Jatink47/vendor-sales-performance-python-sql-powerbi/blob/main/dashboard%20image/Screenshot%202025-08-12%20204148.png)
+  
