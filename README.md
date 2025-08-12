@@ -79,4 +79,12 @@ Removed transactions with:
 - **Low Vendors**: Mean Margin = 41.55%
 6. **Hypothesis Testing:** Statistically significant difference in profit margins → distinct vendor strategies
   ![image alt](https://github.com/Jatink47/vendor-sales-performance-python-sql-powerbi/blob/main/dashboard%20image/Screenshot%202025-08-12%20204148.png)
+
+## Final Recommendations
+- Diversify vendor base to reduce risk
+- Optimize bulk order strategies
+- Reprice slow-moving, high-margin brands
+- Clear unsold inventory strategically
+- Improve marketing for underperforming vendors
+
   
