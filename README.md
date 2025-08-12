@@ -61,8 +61,8 @@ Removed transactions with:
 - Negative between Profit Margin & Sales Price (-0.01)
 
 ## Research Questions & Key Findings
-1. **Brands for Promotions:** 198 brands with low sales but high profit margins
-2. **Top Vendors:** Top 10 vendors = 65.69% of purchases → risk of over-reliance
+1. **Brands for Promotions:** 79 brands with low sales but high profit margins
+2. **Top Vendors:** Top 10 vendors = 73% of purchases → risk of over-reliance
 3. **Bulk Purchasing Impact:** 72% cost savings per unit in large orders
 
 ## Dashboard
@@ -73,10 +73,10 @@ Removed transactions with:
 - Performance Heatmaps
 
   
-5. **Inventory Turnover:** $2.71M worth of unsold inventory
+5. **Inventory Turnover:** $0.5M worth of unsold inventory
 6. **Vendor Profitability:**
-- **High Vendors:** Mean Margin = 31.17%
-- **Low Vendors**: Mean Margin = 41.55%
+- **High Vendors:** Mean Margin = 54.72%
+- **Low Vendors**: Mean Margin = 48.12%
 6. **Hypothesis Testing:** Statistically significant difference in profit margins → distinct vendor strategies
   ![image alt](https://github.com/Jatink47/vendor-sales-performance-python-sql-powerbi/blob/main/dashboard%20image/Screenshot%202025-08-12%20204148.png)
 
