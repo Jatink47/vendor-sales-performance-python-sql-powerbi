@@ -28,6 +28,6 @@ Effective inventory and sales management are critical in the retail sector. This
 5. Statistically validate differences in vendor profitability
 
 ## Dataset
-Multiple CSV files  (sales, vendors, inventory) located in (https://github.com/Jatink47/vendor-sales-performance-python-sql-powerbi/tree/main/data)
-Summary table created from ingested data and used for analysis
+-Multiple CSV files  (sales, vendors, inventory) located in [data](https://github.com/Jatink47/vendor-sales-performance-python-sql-powerbi/tree/main/data)
+-Summary table created from ingested data and used for analysis
 
