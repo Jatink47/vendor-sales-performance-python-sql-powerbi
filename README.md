@@ -64,8 +64,17 @@ Removed transactions with:
 1. **Brands for Promotions:** 198 brands with low sales but high profit margins
 2. **Top Vendors:** Top 10 vendors = 65.69% of purchases → risk of over-reliance
 3. **Bulk Purchasing Impact:** 72% cost savings per unit in large orders
-4. **Inventory Turnover:** $2.71M worth of unsold inventory
-5. **Vendor Profitability:**
+
+## Dashboard
+- Power BI Dashboard shows:
+- Vendor-wise Sales and Margins
+- Inventory Turnover
+- Bulk Purchase Savings
+- Performance Heatmaps
+
+  
+5. **Inventory Turnover:** $2.71M worth of unsold inventory
+6. **Vendor Profitability:**
 - **High Vendors:** Mean Margin = 31.17%
 - **Low Vendors**: Mean Margin = 41.55%
 6. **Hypothesis Testing:** Statistically significant difference in profit margins → distinct vendor strategies
