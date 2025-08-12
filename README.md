@@ -2,6 +2,7 @@
 
 Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI.
 
+Note:  Sales Data set is too large 1cr + rows while scripting it making device lag didn't complete so I have taken 24lakh rows of it.
 
 ## 📑 Table of Contents
 1. [Overview](#overview)
